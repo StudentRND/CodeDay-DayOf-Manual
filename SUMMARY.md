@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Who Are You?](who-are-you.md)
 * Schedule Overview
 * The Beginning
 * Workshops
@@ -12,5 +13,5 @@
 * Pre-Judging and Signups
 * Presentations and Deliberation
 * Awards and Clean-up
-* Closing Things Up
+* Who Are You?
 
