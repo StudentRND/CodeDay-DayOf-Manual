@@ -3,17 +3,17 @@
 * [Introduction](README.md)
 * [Who Are You?](who-are-you.md)
 * [Schedule Overview](schedule-overview.md)
-* Setup
+* [Setup](setup.md)
 * [Check-In](checkin.md)
 * [Kickoff](kickoff.md)
-* Workshops
-* Mentors
+* [Workshops](workshops.md)
+* [Mentors](mentors.md)
 * [Security and Rules](security-and-rules.md)
-* Teams
-* Food and Drinks
-* Activities
-* Pre-Judging and Signups
-* Presentations and Deliberation
-* Awards and Clean-up
-* Kickoff
+* [Teams](teams.md)
+* [Food and Drinks](food-and-drinks.md)
+* [Activities](activities.md)
+* [Pre-Judging and Signups](pre-judging-and-signups.md)
+* [Presentations and Deliberation](presentations-and-deliberation.md)
+* [Awards and Clean-up](awards-and-clean-up.md)
+* [Kickoff](kickoff.md)
 
