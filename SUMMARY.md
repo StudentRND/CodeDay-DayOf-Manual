@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Who Are You?](who-are-you.md)
-* Schedule Overview
+* [Schedule Overview](schedule-overview.md)
 * The Beginning
 * Workshops
 * Mentors
