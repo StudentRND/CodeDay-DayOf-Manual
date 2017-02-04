@@ -6,7 +6,17 @@ If a violation of the rules happens, the proper response is documented at [https
 
 # Coming and going
 
-The venue should be considered "locked down" after kickoff. Any family sticking around for the kickoff should be asked to leave. 
+The venue should be considered "locked down" after kickoff. Any family sticking around for the kickoff should be asked to leave.
+
+Attendees should not be allowed to leave once the venue is locked down unless:
+
+* They are over 18 \(confirm on Clear\)
+* They are under 18, and a parent or legal guardian is there to pick them up
+* They are under 18, and a parent gave them/us a note letting us know they can leave
+
+When an attendee leaves, they should be checked out on the Dayof section of Clear.
+
+Whether attendees can return after leaving is up to Senior Staff.
 
 
 
