@@ -4,7 +4,7 @@
 * [Who Are You?](who-are-you.md)
 * [Schedule Overview](schedule-overview.md)
 * Setup
-* [Check-In](the-beginning.md)
+* [Check-In](checkin.md)
 * [Kickoff](kickoff.md)
 * Workshops
 * Mentors
