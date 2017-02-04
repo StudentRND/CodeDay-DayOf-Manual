@@ -8,7 +8,7 @@
 * [Kickoff](kickoff.md)
 * Workshops
 * Mentors
-* Security and Rules
+* [Security and Rules](security-and-rules.md)
 * Teams
 * Food and Drinks
 * Activities

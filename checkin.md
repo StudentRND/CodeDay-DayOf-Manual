@@ -39,6 +39,10 @@ If your sound is un-muted, you'll hear a tone indicating the result of the check
 * A "1-1-2-2-3-3-3" tone indicates a VIP.
 * A "1-1-3-3-2-2-2" tone \(which is dramatically lower in pitch\) indicates a falure.
 
+As long as the checkin is successful, the attendee should make a name badge, and find a place to sit.
+
+Family members should be allowed to stick around until the kickoff is over, but should not be given a nametag, and must be removed after the kickoff is over.
+
 ## Missing information
 
 If you hear the "1-1-3-3-2-2-2" tone, the student is missing required information. If there are multiple check-in stations, you should designate one as the "slow" line, for students with missing information, otherwise you'll need to collect it yourself.
@@ -63,6 +67,4 @@ If a student looks to be outside of that age range, please ask them to show eith
 Attendees outside that age range **must not be allowed to attend **for security reasons.
 
 \(Middle school students can be allowed at your discretion, but should have previous interest in coding.\)
-
-
 
