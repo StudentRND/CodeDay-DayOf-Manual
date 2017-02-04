@@ -3,7 +3,8 @@
 * [Introduction](README.md)
 * [Who Are You?](who-are-you.md)
 * [Schedule Overview](schedule-overview.md)
-* The Beginning
+* Setup
+* [The Beginning](the-beginning.md)
 * Workshops
 * Mentors
 * Security and Rules
@@ -13,5 +14,5 @@
 * Pre-Judging and Signups
 * Presentations and Deliberation
 * Awards and Clean-up
-* Who Are You?
+* Setup
 
