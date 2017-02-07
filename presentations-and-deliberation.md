@@ -8,6 +8,8 @@ If a team has technical problems, skip them and come back to them at the end.
 
 Once presentations are over, judges should be taken to a side room to discuss awards. **It's very important that at least one volunteer is with the judges to guide the discussion and give information on how much effort teams put in.**
 
+# Awards
+
 Judges need to give out awards for:
 
 - Top Overall (think "1st place")
@@ -20,3 +22,9 @@ At larger events, judges can also give out awards for:
 - Special Award (anything else they want to recognize)
 
 Staff can also give out an MVP award for an attendee who really helped to make the event special.
+
+# Rationale
+
+The only complaints we get about judging are "I didn't understand why the judges made their decision," so it's important that judges are clear why they selected each team for awards.
+
+Assign one specific judge to present each award, and ensure they explain their rationale for giving the award.
