@@ -14,7 +14,7 @@ The judging sheets also include space for notes and subjective (smiley-face) rat
 
 # Judging Criteria
 
-You should judge teams on the following points, in order of importance. We’re not going to give you a rubric, so during deliberation we encourage you to start by picking teams who obviously excelled in one of these areas, and work from there.
+Judges should judge teams on the following points, in order of importance. We’re not going to give you a rubric, so during deliberation we encourage you to start by picking teams who obviously excelled in one of these areas, and work from there.
 
 ## 1. Creativty
 Is it original, fun, or otherwise creative? CodeDay is about having fun, so a team working on the latest mobile-local-social network doesn’t fit the spirit as well as a team with an idea you’ve never heard before.

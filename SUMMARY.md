@@ -6,6 +6,7 @@
 * [Setup](setup.md)
 * [Check-In](checkin.md)
 * [Kickoff](kickoff.md)
+* [Kickoff](kickoff.md)
 * [Workshops](workshops.md)
 * [Mentors](mentors.md)
 * [Security and Rules](security-and-rules.md)
@@ -13,6 +14,5 @@
 * [Food and Drinks](food-and-drinks.md)
 * [Pre-Judging and Signups](pre-judging-and-signups.md)
 * [Presentations and Deliberation](presentations-and-deliberation.md)
-* [Awards and Clean-up](awards-and-clean-up.md)
 * [Kickoff](kickoff.md)
 
