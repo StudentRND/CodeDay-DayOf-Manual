@@ -61,6 +61,8 @@ A waiver MUST be collected from each student. If the student is under 18 and a p
 
 Click the + button at the very top-right of Clear to add a new attendee.
 
+If you're charging the participant's card, set the billing amount. (You must not accept cash for legal reasons.) If there are multiple students registering with one parent, bill one for the full cost of the tickets, and leave the cost at 0 for the rest to avoid retyping the card each time.
+
 You will need to follow the missing information procedure to collect their parent info and waiver.
 
 ## Over- and under-age attendees
