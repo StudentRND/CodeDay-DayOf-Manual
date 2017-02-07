@@ -19,4 +19,4 @@ At larger events, judges can also give out awards for:
 - 0-to-60 ("beginner team who made a lot of progress")
 - Special Award (anything else they want to recognize)
 
-t
+Staff can also give out an MVP award for an attendee who really helped to make the event special.
