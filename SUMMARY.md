@@ -11,7 +11,6 @@
 * [Security and Rules](security-and-rules.md)
 * [Teams](teams.md)
 * [Food and Drinks](food-and-drinks.md)
-* [Activities](activities.md)
 * [Pre-Judging and Signups](pre-judging-and-signups.md)
 * [Presentations and Deliberation](presentations-and-deliberation.md)
 * [Awards and Clean-up](awards-and-clean-up.md)
