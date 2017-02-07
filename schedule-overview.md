@@ -15,6 +15,7 @@ Most events have an overall flow which you should familarize yourself with. It's
 | ... | ... |
 | 5pm | Splunk Workshop |
 | 6pm | Dinner |
+| 7pm | Have teams register for showcase |
 | 7pm-11pm \(varies\) | Activities |
 
 # Sunday
