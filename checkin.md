@@ -23,6 +23,8 @@ If you're assigned to check-in, you can open [clear.codeday.org/dayof](https://c
 
 ## Procedure
 
+{% youtube %}https://www.youtube.com/watch?v=z5IS1hs6Myo{% endyoutube %}
+
 Ideally, most attendees will have a paper or e-ticket. \(The Android app is only a barcode scanner, and can ONLY process e-tickets.\)
 
 If you have a barcode scanner, just make sure the search box is focused, and scan the barcode.
@@ -45,11 +47,21 @@ Family members should be allowed to stick around until the kickoff is over, but 
 
 ## Missing information
 
+{% youtube %}https://www.youtube.com/watch?v=EaQKgnK7yvg{% endyoutube %}
+
 If you hear the "1-1-3-3-2-2-2" tone, the student is missing required information. If there are multiple check-in stations, you should designate one as the "slow" line, for students with missing information, otherwise you'll need to collect it yourself.
 
 If the ticket has already cleared \(or in the slow station, if you have one\), re-type the ticket identifier, then click the ticket ID \(the long string of letters under the name\). A new tab will open to collect the missing information. Ensure both the Parent Info and Waiver are complete before you let the student in. The survey is not required.
 
 A waiver MUST be collected from each student. If the student is under 18 and a parent is not present, they must send the link to their parent to complete.
+
+## Adding New Attendees
+
+{% youtube %}https://www.youtube.com/watch?v=frdXpMwk8vY{% endyoutube %}
+
+Click the + button at the very top-right of Clear to add a new attendee.
+
+You will need to follow the missing information procedure to collect their parent info and waiver.
 
 ## Over- and under-age attendees
 
