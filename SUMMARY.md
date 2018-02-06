@@ -9,7 +9,7 @@
 * [Workshops](workshops.md)
 * [Mentors](mentors.md)
 * [Security and Rules](security-and-rules.md)
-* [Teams](teams.md)
+* [Uploading Photos/Teams](showcase.md)
 * [Food and Drinks](food-and-drinks.md)
 * [Pre-Judging and Signups](pre-judging-and-signups.md)
 * [Presentations and Deliberation](presentations-and-deliberation.md)

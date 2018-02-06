@@ -19,13 +19,11 @@ If a line forms, you can help get people in the line excited.
 
 # Check-In
 
-If you're assigned to check-in, you can open [clear.codeday.org/dayof](https://clear.codeday.org/dayof) to process checkins. You can also download the [Android Checkin app](https://play.google.com/store/apps/details?id=org.srnd.codeday.clear.checkin&hl=en).
+If you're assigned to check-in, you can open [clear.codeday.org/dayof](https://clear.codeday.org/dayof) to process checkins.
 
 ## Procedure
 
 {% youtube %}https://www.youtube.com/watch?v=z5IS1hs6Myo{% endyoutube %}
-
-Ideally, most attendees will have a paper or e-ticket. \(The Android app is only a barcode scanner, and can ONLY process e-tickets.\)
 
 If you have a barcode scanner, just make sure the search box is focused, and scan the barcode.
 
